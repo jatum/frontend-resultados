@@ -1,0 +1,14 @@
+.container {
+    border: 2px solid black;
+    padding: 2rem;
+}
+
+.mat-tab-group {
+    margin-bottom: 48px;
+  }
+
+  .form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
